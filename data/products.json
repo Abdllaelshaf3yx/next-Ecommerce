@@ -1,0 +1,137 @@
+[
+    {
+        "id": "p1",
+        "name_en": "Ethnic Linen Shirt",
+        "name_ar": "قميص كتان إثني",
+        "price": 34.99,
+        "category": "apparel",
+        "image": "/images/p1.jpg",
+        "description_en": "A beautifully crafted white linen shirt with traditional Chinese knot buttons. Breathable and lightweight, perfect for warm weather styling. Hangs with a relaxed, elegant drape.",
+        "description_ar": "قميص أبيض من الكتان مصنوع بعناية مع أزرار عقدة صينية تقليدية. خفيف وقابل للتهوية، مثالي للطقس الدافئ. يتدلى بشكل مريح وأنيق.",
+        "inStock": true,
+        "originalPrice": 49.99
+    },
+    {
+        "id": "p2",
+        "name_en": "Vooglam Cat-Eye Sunglasses",
+        "name_ar": "نظارات Vooglam Cat-Eye شمسية",
+        "price": 49.00,
+        "category": "accessories",
+        "image": "/images/p2.jpg",
+        "description_en": "Vooglam's sleek cat-eye sunglasses in matte black with UV400 polarized lenses. Lightweight acetate frame with a retro-modern silhouette that flatters all face shapes.",
+        "description_ar": "نظارات Vooglam cat-eye الأنيقة باللون الأسود المطفأ مع عدسات مستقطبة UV400. إطار أستيات خفيف الوزن بتصميم كلاسيكي-عصري يناسب جميع أشكال الوجه.",
+        "inStock": true
+    },
+    {
+        "id": "p3",
+        "name_en": "Anker Soundcore Q45 Headphones",
+        "name_ar": "سماعات Anker Soundcore Q45",
+        "price": 79.99,
+        "category": "electronics",
+        "image": "/images/p3.jpg",
+        "description_en": "Anker Soundcore Q45 wireless headphones in warm beige. Features Hi-Res Audio, hybrid active noise cancellation, and 50-hour battery life with foldable design for easy travel.",
+        "description_ar": "سماعات Anker Soundcore Q45 اللاسلكية باللون البيج الدافئ. تتميز بصوت Hi-Res وإلغاء ضوضاء هجين نشط وعمر بطارية 50 ساعة مع تصميم قابل للطي للسفر.",
+        "inStock": true,
+        "originalPrice": 129.99
+    },
+    {
+        "id": "p4",
+        "name_en": "Fitness Smart Watch",
+        "name_ar": "ساعة ذكية للياقة",
+        "price": 89.99,
+        "category": "electronics",
+        "image": "/images/p4.jpg",
+        "description_en": "Slim square smartwatch with a bright AMOLED display showing real-time stats. Tracks heart rate, steps, sleep, and workouts. Water-resistant with a durable silicone band.",
+        "description_ar": "ساعة ذكية مربعة ونحيلة مع شاشة AMOLED مشرقة تعرض الإحصائيات في الوقت الفعلي. تتتبع معدل ضربات القلب والخطوات والنوم والتمارين. مقاومة للماء مع حزام سيليكون متين.",
+        "inStock": true
+    },
+    {
+        "id": "p5",
+        "name_en": "Nike Free RN Flyknit",
+        "name_ar": "Nike Free RN Flyknit",
+        "price": 129.99,
+        "category": "footwear",
+        "image": "/images/p5.jpg",
+        "description_en": "The Nike Free RN Flyknit in bold crimson red. Engineered with a one-piece Flyknit upper for a sock-like fit and a flexible sole that moves naturally with your foot.",
+        "description_ar": "Nike Free RN Flyknit باللون الأحمر القرمزي الجريء. مصنوع بجزء علوي Flyknit من قطعة واحدة لملاءمة شبيهة بالجورب مع نعل مرن يتحرك بشكل طبيعي مع قدمك.",
+        "inStock": true,
+        "originalPrice": 169.99
+    },
+    {
+        "id": "p6",
+        "name_en": "Classic White Leather Sneakers",
+        "name_ar": "حذاء رياضي جلد أبيض كلاسيكي",
+        "price": 99.99,
+        "category": "footwear",
+        "image": "/images/p6.jpg",
+        "description_en": "Timeless white leather sneakers with clean lacing and a cushioned sole. Versatile enough to pair with everything from jeans to chinos. Comes with a travel shoe bag.",
+        "description_ar": "حذاء رياضي جلد أبيض خالد مع شريط نظيف ونعل مبطن. متعدد الاستخدامات بما يكفي لتنسيقه مع كل شيء من الجينز إلى البنطال. يأتي مع حقيبة حذاء للسفر.",
+        "inStock": true
+    },
+    {
+        "id": "p7",
+        "name_en": "Mercedes-AMG Leather Wallet",
+        "name_ar": "محفظة Mercedes-AMG جلد",
+        "price": 95.00,
+        "category": "accessories",
+        "image": "/images/p7.jpg",
+        "description_en": "Official Mercedes-AMG bifold leather wallet in midnight navy. Features the embossed AMG logo with a racing-stripe pattern. Full-grain leather with 6 card slots and a bill compartment.",
+        "description_ar": "محفظة جلد ثنائية الطي الرسمية من Mercedes-AMG باللون الأزرق الداكن. تتميز بشعار AMG المنقوش ونمط خطوط السباق. جلد كامل الحبوب مع 6 فتحات بطاقات وحجرة أوراق نقدية.",
+        "inStock": true
+    },
+    {
+        "id": "p8",
+        "name_en": "Industrial Edison Desk Lamp",
+        "name_ar": "مصباح مكتبي إديسون صناعي",
+        "price": 55.00,
+        "category": "home",
+        "image": "/images/p8.jpg",
+        "description_en": "A sleek industrial-style desk lamp with an exposed Edison bulb, brushed steel finish, and a concrete base. Creates a warm, atmospheric glow perfect for any workspace or bedside table.",
+        "description_ar": "مصباح مكتبي أنيق بتصميم صناعي مع مصباح إديسون مكشوف وتشطيب فولاذي مفرشط وقاعدة خرسانية. يخلق توهجًا دافئًا جميلًا مثاليًا لأي مساحة عمل أو طاولة سرير.",
+        "inStock": true
+    },
+    {
+        "id": "p9",
+        "name_en": "Abstract Art Portable Speaker",
+        "name_ar": "سماعة محمولة بفن تجريدي",
+        "price": 119.00,
+        "category": "electronics",
+        "image": "/images/p9.jpg",
+        "description_en": "A premium portable Bluetooth speaker wrapped in a stunning mosaic abstract-art design. Delivers room-filling 360° sound with deep bass. Waterproof and designed to make a statement.",
+        "description_ar": "سماعة بلوتوث محمولة فاخرة مغطاة بتصميم فن تجريدي فسيفسائي مذهل. توفر صوتًا محيطيًا 360° يملأ الغرفة مع باص عميق. مقاومة للماء ومصممة لتكون مميزة.",
+        "inStock": true
+    },
+    {
+        "id": "p10",
+        "name_en": "Premium Fleece Hoodie",
+        "name_ar": "هودي فليس فاخر",
+        "price": 65.00,
+        "category": "apparel",
+        "image": "/images/p10.jpg",
+        "description_en": "Crafted from heavyweight double-sided fleece in heathered gray. The ultra-soft brushed interior and durable outer shell provide exceptional warmth without bulk. A wardrobe essential.",
+        "description_ar": "مصنوع من الفليس الثقيل ذو الوجهين باللون الرمادي المنقط. الجزء الداخلي المفرشط ناعم للغاية والقشرة الخارجية المتينة توفران دفئًا استثنائيًا دون ثقل زائد. ضروري لأي خزانة ملابس.",
+        "inStock": true
+    },
+    {
+        "id": "p11",
+        "name_en": "Cloud Cushion Pillow Set",
+        "name_ar": "طقم وسائد Cloud Cushion",
+        "price": 44.99,
+        "category": "home",
+        "image": "/images/p11.jpg",
+        "description_en": "Set of 3 ultra-plush decorative cushions with an ultra-white micro-fiber cover. The puffy cloud-like shape adds a playful, airy feel to any sofa or bedroom. Machine washable.",
+        "description_ar": "طقم من 3 وسائد ديكور فاخرة بغطاء أبيض ناصع من الألياف الدقيقة. الشكل الرقيق الشبيه بالسحابة يضيف طابعًا مرحًا وهوائيًا لأي أريكة أو غرفة نوم. قابل للغسيل بالآلة.",
+        "inStock": true
+    },
+    {
+        "id": "p12",
+        "name_en": "Nikon D6 DSLR Camera",
+        "name_ar": "كاميرا Nikon D6 DSLR",
+        "price": 649.00,
+        "category": "electronics",
+        "image": "/images/p12.jpg",
+        "description_en": "The professional-grade Nikon D6 DSLR with a 105mm telephoto lens. Captured mid-shoot in natural light, this powerhouse camera is built for sports, wildlife, and documentary photography.",
+        "description_ar": "كاميرا Nikon D6 DSLR الاحترافية مع عدسة تليفوتو 105mm. هذه الكاميرا القوية مصنوعة للتصوير الرياضي والحياة البرية والتصوير الوثائقي.",
+        "inStock": true
+    }
+]

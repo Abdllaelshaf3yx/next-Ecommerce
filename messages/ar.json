@@ -1,0 +1,151 @@
+{
+    "Home": {
+        "title": "مرحباً بكم في متجرنا",
+        "description": "ابحث عن أفضل المنتجات هنا",
+        "featuredCategories": "فئات مميزة",
+        "featuredProducts": "منتجات مميزة",
+        "shopNow": "تسوق الآن",
+        "newCollection": "مجموعة جديدة 2026",
+        "learnMore": "اعرف المزيد",
+        "viewAll": "عرض الكل"
+    },
+    "NotFound": {
+        "heading": "الصفحة غير موجودة",
+        "description": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
+        "backHome": "العودة إلى الرئيسية"
+    },
+    "Navigation": {
+        "home": "الرئيسية",
+        "products": "المنتجات",
+        "categories": "الفئات",
+        "about": "معلومات عنا",
+        "contact": "اتصل بنا",
+        "cart": "عربة التسوق",
+        "login": "تسجيل الدخول",
+        "logout": "تسجيل الخروج",
+        "account": "حسابي",
+        "search": "البحث عن المنتجات...",
+        "wishlist": "المفضلة"
+    },
+    "Category": {
+        "sortBy": "ترتيب حسب:",
+        "priceLowToHigh": "السعر: من الأقل للأعلى",
+        "priceHighToLow": "السعر: من الأعلى للأقل"
+    },
+    "Categories": {
+        "all": "جميع المنتجات",
+        "apparel": "ملابس",
+        "accessories": "إكسسوارات",
+        "electronics": "إلكترونيات",
+        "footwear": "أحذية",
+        "home": "المنزل"
+    },
+    "Product": {
+        "addToCart": "أضف إلى السلة",
+        "addToWishlist": "المفضلة",
+        "relatedProducts": "منتجات ذات صلة",
+        "price": "السعر: {price}",
+        "inStock": "متوفر",
+        "outOfStock": "غير متوفر",
+        "addedToCart": "تمت الإضافة إلى السلة بنجاح",
+        "addedToWishlist": "تمت الإضافة إلى المفضلة",
+        "removedFromWishlist": "تمت الإزالة من المفضلة",
+        "loginRequired": "يجب تسجيل الدخول لاستخدام المفضلة"
+    },
+    "Cart": {
+        "title": "عربة التسوق الخاصة بك",
+        "empty": "عربة التسوق فارغة.",
+        "continueShopping": "مواصلة التسوق",
+        "subtotal": "المجموع الفرعي",
+        "checkout": "المتابعة لإتمام الطلب",
+        "remove": "إزالة",
+        "orderSummary": "ملخص الطلب",
+        "total": "الإجمالي",
+        "removedFromCart": "تم إزالة العنصر من السلة"
+    },
+    "Checkout": {
+        "title": "إتمام الطلب",
+        "shipping": "معلومات الشحن",
+        "review": "مراجعة الطلب",
+        "successTitle": "تم الطلب بنجاح!",
+        "successMessage": "شكرا لشرائك.",
+        "placeOrder": "تأكيد الطلب",
+        "fullName": "الاسم الكامل",
+        "emailAddress": "البريد الإلكتروني",
+        "shippingAddress": "عنوان الشحن",
+        "city": "المدينة",
+        "zipCode": "الرمز البريدي",
+        "logInPrompt": "سجل الدخول لإتمام الطلب بسرعة.",
+        "shippingTo": "الشحن إلى:",
+        "editInformation": "تعديل المعلومات",
+        "shippingFee": "الشحن",
+        "free": "مجاني"
+    },
+    "Auth": {
+        "loginTitle": "تسجيل الدخول إلى حسابك",
+        "signupTitle": "إنشاء حساب",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "submit": "إرسال",
+        "fullName": "الاسم الكامل",
+        "alreadyHaveAccount": "لديك حساب بالفعل؟",
+        "logInLink": "تسجيل الدخول",
+        "dontHaveAccount": "ليس لديك حساب؟",
+        "signUpLink": "إنشاء حساب"
+    },
+    "About": {
+        "title": "عن ميني شوب",
+        "p1": "مرحباً بك في ميني شوب، وجهتك النهائية لكل ما تحتاجه. تأسسنا في عام 2026 بمهمة توفير منتجات عالية الجودة وبأسعار معقولة للجميع في كل مكان.",
+        "p2": "سواء كنت تبحث عن أحدث الأجهزة الإلكترونية أو الملابس العصرية أو الأساسيات اليومية، نقوم بعناية باختيار مجموعتنا لضمان حصولك على أفضل قيمة مقابل أموالك.",
+        "valuesTitle": "قيمنا",
+        "quality": "الجودة:",
+        "qualityDesc": "لا نتنازل أبدًا عن معايير المنتج.",
+        "customerFirst": "العميل أولاً:",
+        "customerFirstDesc": "رضاك هو أولويتنا القصوى.",
+        "integrity": "النزاهة:",
+        "integrityDesc": "نؤمن بالممارسات التجارية الشفافة والصادقة."
+    },
+    "Contact": {
+        "title": "اتصل بنا",
+        "description": "هل لديك سؤال أو ملاحظة أو تحتاج إلى مساعدة؟ فريق الدعم لدينا هنا للمساعدة!",
+        "email": "البريد الإلكتروني:",
+        "phone": "الهاتف: +201033347073",
+        "address": "العنوان:",
+        "addressText": "دمياط الجديدة، مصر",
+        "sendMessage": "أرسل رسالة",
+        "yourName": "اسمك",
+        "yourEmail": "بريدك الإلكتروني",
+        "howCanWeHelp": "كيف يمكننا مساعدتك؟",
+        "submit": "أرسل الرسالة",
+        "successMessage": "تم إرسال رسالتك بنجاح!"
+    },
+    "Footer": {
+        "description": "وجهتك الأولى لكل ما تحتاجه. منتجات عالية الجودة وخدمة ممتازة.",
+        "quickLinks": "روابط سريعة",
+        "contactUs": "تواصل معنا",
+        "addressLine1": "دمياط الجديدة،",
+        "addressLine2": "مصر",
+        "email": "abdullah.mahmoud.abdelrahman@gmail.com",
+        "rights": "جميع الحقوق محفوظة."
+    },
+    "Validation": {
+        "invalidEmail": "البريد الإلكتروني غير صالح",
+        "passwordMin": "كلمة المرور يجب أن تكون 8 أحرف على الأقل",
+        "nameRequired": "الاسم يجب أن يكون حرفين على الأقل",
+        "addressRequired": "رجاءً إدخال عنوان شحن صحيح",
+        "cityRequired": "رجاءً إدخال مدينة صحيحة",
+        "zipCodeRequired": "الرمز البريدي يجب أن يكون 5 أرقام",
+        "messageMin": "الرسالة يجب أن تحتوي على 10 أحرف على الأقل",
+        "passwordUppercase": "يجب أن تحتوي على حرف كبير واحد على الأقل",
+        "passwordLowercase": "يجب أن تحتوي على حرف صغير واحد على الأقل",
+        "passwordNumber": "يجب أن تحتوي على رقم واحد على الأقل",
+        "phoneInvalid": "رقم الهاتف غير صالح"
+    },
+    "Wishlist": {
+        "title": "قائمة المفضلة الخاصة بك",
+        "empty": "قائمة المفضلة فارغة.",
+        "continueShopping": "مواصلة التسوق",
+        "remove": "إزالة من المفضلة",
+        "loginRequired": "يرجى تسجيل الدخول لعرض المفضلة."
+    }
+}

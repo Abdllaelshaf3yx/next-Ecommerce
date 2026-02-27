@@ -1,0 +1,151 @@
+{
+    "Home": {
+        "title": "Welcome to Our Store",
+        "description": "Find the best products here",
+        "featuredCategories": "Featured Categories",
+        "featuredProducts": "Featured Products",
+        "shopNow": "Shop Now",
+        "newCollection": "New Collection 2026",
+        "learnMore": "Learn More",
+        "viewAll": "View All"
+    },
+    "NotFound": {
+        "heading": "Page Not Found",
+        "description": "The page you are looking for doesn't exist or has been moved.",
+        "backHome": "Back to Home"
+    },
+    "Navigation": {
+        "home": "Home",
+        "products": "Products",
+        "categories": "Categories",
+        "about": "About",
+        "contact": "Contact",
+        "cart": "Cart",
+        "login": "Login",
+        "logout": "Logout",
+        "account": "My Account",
+        "search": "Search products...",
+        "wishlist": "Wishlist"
+    },
+    "Category": {
+        "sortBy": "Sort by:",
+        "priceLowToHigh": "Price: Low to High",
+        "priceHighToLow": "Price: High to Low"
+    },
+    "Categories": {
+        "all": "All Products",
+        "apparel": "Apparel",
+        "accessories": "Accessories",
+        "electronics": "Electronics",
+        "footwear": "Footwear",
+        "home": "Home"
+    },
+    "Product": {
+        "addToCart": "Add to Cart",
+        "addToWishlist": "Wishlist",
+        "relatedProducts": "Related Products",
+        "price": "Price: {price}",
+        "inStock": "In Stock",
+        "outOfStock": "Out of Stock",
+        "addedToCart": "Added to cart successfully",
+        "addedToWishlist": "Added to wishlist",
+        "removedFromWishlist": "Removed from wishlist",
+        "loginRequired": "You must log in to use the wishlist"
+    },
+    "Cart": {
+        "title": "Your Cart",
+        "empty": "Your cart is empty.",
+        "continueShopping": "Continue Shopping",
+        "subtotal": "Subtotal",
+        "checkout": "Proceed to Checkout",
+        "remove": "Remove",
+        "orderSummary": "Order Summary",
+        "total": "Total",
+        "removedFromCart": "Item removed from cart"
+    },
+    "Checkout": {
+        "title": "Checkout",
+        "shipping": "Shipping Information",
+        "review": "Review Order",
+        "successTitle": "Order Placed Successfully!",
+        "successMessage": "Thank you for your purchase.",
+        "placeOrder": "Place Order",
+        "fullName": "Full Name",
+        "emailAddress": "Email Address",
+        "shippingAddress": "Shipping Address",
+        "city": "City",
+        "zipCode": "ZIP Code",
+        "logInPrompt": "Log in for faster checkout.",
+        "shippingTo": "Shipping to:",
+        "editInformation": "Edit Information",
+        "shippingFee": "Shipping",
+        "free": "Free"
+    },
+    "Auth": {
+        "loginTitle": "Login to your account",
+        "signupTitle": "Create an account",
+        "email": "Email Address",
+        "password": "Password",
+        "submit": "Submit",
+        "fullName": "Full Name",
+        "alreadyHaveAccount": "Already have an account?",
+        "logInLink": "Log in",
+        "dontHaveAccount": "Don't have an account?",
+        "signUpLink": "Sign up"
+    },
+    "About": {
+        "title": "About MiniShop",
+        "p1": "Welcome to MiniShop, your ultimate destination for everything you need. Founded in 2026, we've set out on a mission to bring high-quality, affordable products to everyone, everywhere.",
+        "p2": "Whether you're looking for the latest electronics, trendy apparel, or everyday essentials, we carefully curate our collection to ensure that you get the best value for your money.",
+        "valuesTitle": "Our Values",
+        "quality": "Quality:",
+        "qualityDesc": "We never compromise on product standards.",
+        "customerFirst": "Customer First:",
+        "customerFirstDesc": "Your satisfaction is our top priority.",
+        "integrity": "Integrity:",
+        "integrityDesc": "We believe in transparent, honest business practices."
+    },
+    "Contact": {
+        "title": "Contact Us",
+        "description": "Have a question, feedback, or need assistance? Our support team is here to help!",
+        "email": "Email:",
+        "phone": "Phone: +201033347073",
+        "address": "Address:",
+        "addressText": "New Damietta, Egypt",
+        "sendMessage": "Send a Message",
+        "yourName": "Your Name",
+        "yourEmail": "Your Email",
+        "howCanWeHelp": "How can we help you?",
+        "submit": "Send Message",
+        "successMessage": "Your message has been sent successfully!"
+    },
+    "Footer": {
+        "description": "Your one-stop shop for everything you need. Quality products and excellent service.",
+        "quickLinks": "Quick Links",
+        "contactUs": "Contact",
+        "addressLine1": "New Damietta",
+        "addressLine2": "Egypt",
+        "email": "abdullah.mahmoud.abdelrahman@gmail.com",
+        "rights": "All rights reserved."
+    },
+    "Validation": {
+        "invalidEmail": "Please enter a valid email address",
+        "passwordMin": "Password must be at least 8 characters long",
+        "nameRequired": "Name must be at least 2 characters",
+        "addressRequired": "Please enter a valid shipping address",
+        "cityRequired": "Please enter a valid city",
+        "zipCodeRequired": "Please enter a valid 5-digit zip code",
+        "messageMin": "Message must be at least 10 characters long",
+        "passwordUppercase": "Must contain at least one uppercase letter",
+        "passwordLowercase": "Must contain at least one lowercase letter",
+        "passwordNumber": "Must contain at least one number",
+        "phoneInvalid": "Please enter a valid phone number"
+    },
+    "Wishlist": {
+        "title": "Your Wishlist",
+        "empty": "Your wishlist is empty.",
+        "continueShopping": "Continue Shopping",
+        "remove": "Remove from Wishlist",
+        "loginRequired": "Please log in to view your wishlist."
+    }
+}
